@@ -14,4 +14,4 @@ https://teaching.healthtech.dtu.dk/22101/index.php/Programme
 
 Some of the content, such as video lectures, may require logging into DTU inside. However, the majority of the excercises can be completed by any individual with access to the link above.
 
-Huge thanks to the course creater, Peter Wad Sackett, for making the course content fully available online.
+Huge thanks to the course creater, Peter Wad Sackett, for making the lecture slices, lecture videos, and the practice problems available online.
