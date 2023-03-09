@@ -7,6 +7,7 @@ I also hope to use this as practice give me a solid foundation to attend the int
 There are 13 lectures in total. For each lecture, if it comes with two sets of exercises, then I made two Jupyter notebooks. One for the main excercise set, another for the extra practice set.
 
 Please let me know if you find any bugs, or if you have any comments or suggestions for improvements!
+I did not have access to the solutions, so parts of my code might be a bit sub-optimal.
 
 All information came from the courses's public wiki:
 https://teaching.healthtech.dtu.dk/22101/index.php/Programme
