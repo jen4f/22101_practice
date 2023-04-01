@@ -1,6 +1,7 @@
 # 22101_practice
 I needed to test my self-taught Python skills and prepare for my MSc Bioinformatics course commencing September 2023.
 Around February 2023, I decided to follow DTU's 22101 course, Introduction to Programming in Life Sciences Using Python.
+I completed all the excercises by the 1st of April, working on them on and off for 53 days in total.
 
 I also hope to use this as practice give me a solid foundation to attend the intermediary course, 22113 Unix and Python Programming for Bioinfomaticians, during my spring semester in 2024. 
 
